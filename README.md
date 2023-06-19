@@ -1,6 +1,6 @@
-# Proyecto-Python-con-Base-de-Datos
+# Proyecto Python Con Base De Datos
 
-# Enunciados
+## Enunciados
     1. Listar Ganaderias
     2. Buscar la ganaderia por intervalos de antiguedad
     3. Buscar el nombre del torero por el apodo
